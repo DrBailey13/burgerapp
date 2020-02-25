@@ -17,8 +17,47 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
-body {
-  background-image: url(/Users/devantebailey/Class/Homework/burgerapp/goodburger.gif);
+
+
+li {
+  padding: 5px;
+  margin: 5px;
 }
 
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+html {
+
+  height: 100vh;
+  width: 100vw;
+}
+body{
+  background-image: url(public/assets/images/imgbin-hamburger-fast-food-french-fries-cartoon-burger-fries-K5DeE2JT4e8sxPbr2A0xjayTu.jpg);
+background:  gold;
+}
+h1 {
+color: white;
+text-shadow: -1px 1px 2px #000,
+        1px 1px 2px #000,
+        1px -1px 0 #000,
+        -1px -1px 0 #000;
+}
+
+img {
+padding: 20px;
+width: 200px;
+height: 200px;
+}
   
