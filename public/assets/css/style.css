@@ -44,8 +44,9 @@ html {
   width: 100vw;
 }
 body{
-  background-image: url(public/assets/images/imgbin-hamburger-fast-food-french-fries-cartoon-burger-fries-K5DeE2JT4e8sxPbr2A0xjayTu.jpg);
+  background-image: url(assets/images/imgbin-hamburger-fast-food-french-fries-cartoon-burger-fries-K5DeE2JT4e8sxPbr2A0xjayTu.jpg);
 background:  gold;
+
 }
 h1 {
 color: white;
@@ -61,3 +62,7 @@ width: 200px;
 height: 200px;
 }
   
+#burgerContainer{
+ text-align: center;
+ display: inline-block;
+}
